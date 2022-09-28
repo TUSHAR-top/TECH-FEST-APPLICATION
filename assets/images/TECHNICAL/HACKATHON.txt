@@ -1,0 +1,3 @@
+A hackathon is an event that brings together experts and creates a collaborative environment for solving a certain problem. While the majority of hackathons revolve around computer programming and IT, many other industries follow suit. Today, it's possible to find HR hackathons, economics hackathons, music hackathons, and the like.
+
+The word hackathon is a combination of "hack" and "marathon." So, essentially it's a marathon for hackers.  But, in this case, hackers are exploratory computer programmers.
